@@ -1,0 +1,14 @@
+{
+  "resourceName": "ampAuthResource",
+  "policyUUID": "0638b5df",
+  "bucketName": "ampauthresourcebucket",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
